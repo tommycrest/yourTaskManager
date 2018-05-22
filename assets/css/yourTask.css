@@ -1,0 +1,39 @@
+body {
+  padding-top: 3.5rem;
+}
+.starter-template {
+	padding-top: 3rem;
+  text-align: center;
+  margin: 0 auto;
+}
+
+.tasksBox-container {
+	border: 1px solid #f0f2c4;
+	background-color: #ecef9e;
+	margin: 0px 0px 5px 0px;
+}
+
+.tasksBox-container:last-child {
+	border: 1px solid #f0f2c4;
+	background-color: #ecef9e;
+	margin: 0px 0px 20px 0px;
+}
+
+.tasksBox-header {
+	padding: 0px 0px 0px 3px;
+	
+}
+.tasksBox-description {
+	border-top: 1px solid black;
+	padding: 0px 0px 0px 3px;
+	
+}
+.tasksBox-fromtime {
+	padding: 0px 0px 0px 3px;
+}
+.tasksBox-totime {
+	padding: 0px 0px 0px 3px;
+}
+.taskBox-paragrapgh {
+	margin-bottom: 1rem;
+}
