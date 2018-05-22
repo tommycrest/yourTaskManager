@@ -27,4 +27,4 @@ If you like this, donate on Paypal on PayPal.Me:
 
 https://www.paypal.me/TommyCrestanello
 
-Or simply send BTC direcly here: 1DjHP57CUgV81dzTWvrGKeC8Nzbu3zriHa
+Or you can donate to this BTC address: 1DjHP57CUgV81dzTWvrGKeC8Nzbu3zriHa
