@@ -11,12 +11,29 @@ body {
 	border: 1px solid #f0f2c4;
 	background-color: #ecef9e;
 	margin: 0px 0px 5px 0px;
+	width: 100%;
 }
 
 .tasksBox-container:last-child {
 	border: 1px solid #f0f2c4;
 	background-color: #ecef9e;
 	margin: 0px 0px 20px 0px;
+}
+
+.tasksBox-container-done {
+	border: 1px solid #f0f2c4;
+	background-color: #8ff442;
+	margin: 0px 0px 5px 0px;
+}
+
+.tasksBox-container-done:last-child {
+	border: 1px solid #f0f2c4;
+	background-color: #8ff442;
+	margin: 0px 0px 20px 0px;
+}
+
+.taskBox-button-group {
+	padding: 0px 0px 3px 3px;
 }
 
 .tasksBox-header {
